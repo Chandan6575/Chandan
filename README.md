@@ -1,4 +1,4 @@
-![Image Alt Text](https://www.pinterest.com/pin/data-analytics-animation--311381761730704419/)
+![Image Alt Text](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 
 # 💫 About Me:
 🔹 Hi, I'm Chandan ! An Analyst specializing in Data Analysis, Machine Learning, and Business Analysis.  <br>🔹 Passionate about turning data into insights 📊 and building data-driven solutions 🚀.  <br>🔹 Skilled in Python, SQL, Power BI, Tableau, Excel, and Machine Learning models 🤖.  <br>🔹 Exploring Cloud, AI, and Automation to optimize business processes ☁️⚡.  <br>🔹 Open to collaborations, discussions, and exciting projects! 🎯 <br><br>✅ Data Analysis – Cleaning, transforming, and visualizing data 📈  <br>✅ Machine Learning – Building predictive models & automation 🤖  <br>✅ Business Analytics – Translating data into actionable business insights 💼
