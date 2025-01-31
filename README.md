@@ -1,6 +1,5 @@
+# 🔍 Decoding Data | Insights, Strategy & ML Solutions
 <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" style="width: 80%; max-width: 600px; height: auto;" alt="GIF">
-
-
 
 
 # 💫 About Me:
